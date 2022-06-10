@@ -1,0 +1,2 @@
+<?php
+redirectTo('/admin/users/');
